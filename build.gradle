@@ -13,7 +13,6 @@ plugins {
 
 repositories {
 	maven {
-		url 'https://nexus.dst.tk-inline.net/nexus3/repository/public/'
 	}
 }
 
