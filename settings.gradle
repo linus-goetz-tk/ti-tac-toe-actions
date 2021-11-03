@@ -1,0 +1,9 @@
+pluginManagement {
+	repositories {
+		maven {
+			url 'https://nexus.dst.tk-inline.net/nexus3/repository/tkeasy-gradle-plugins/'
+		}
+	}
+}
+
+rootProject.name = 'hello-world'
